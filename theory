@@ -1,0 +1,26 @@
+Editors- we can just write the code
+IDE-integrated development environment-- where we can write run compile code -eg:vs code,eclipse
+LTS-long term support eg java17
+compile--->javac hello.java
+run-->java hello
+code-->bytecode->jvm
+jvm
+jre--java run time environment (jvm is integral part of jvm)(every system has jre)
+jdk has jre
+--------------------
+DATATYPES
+char-2 bytes
+int- 4 bytes
+short-2 bytes
+long-8 bytes
+long x=1.7l
+float x=3.0f
+in byte ,127 is last one
+int x=0b101;
+int y=0x7E
+sopln(x)=======o/p--5
+sopln(y)=======o/p--127
+
+char c='c';
+c++;
+sopln(c)======o/p--a
